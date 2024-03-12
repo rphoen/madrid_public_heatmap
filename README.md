@@ -1,4 +1,6 @@
-# Web Analytics project - public transport distance heatmap
+# Public transport distance heatmap
+
+A heatmap of the public transport in Madrid calculating the time taken to get to anywhere from the center of Madrid.
 
 ## Dev Setup
 
